@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Privacy Policy of Bitcoin Accepted Here
 
-You can use the [editor on GitHub](https://github.com/Akshshr/Bitcoin-Accepted-Here/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Bitcoin Accepted Here operates the [Link](https://play.google.com/store/apps/details?id=com.bitcoinacceptedhere) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-### Markdown
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at https://play.google.com/store/apps/details?id=com.bitcoinacceptedhere, unless otherwise defined in this Privacy 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Markdown EXAMPLE
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +26,37 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Information Collection and Use
 
-### Jekyll Themes
+For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to your name, phone number, and postal address. The information that we collect will be used to contact or identify you.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Akshshr/Bitcoin-Accepted-Here/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Log Data
 
-### Support or Contact
+We want to inform you that whenever you visit our Service, we collect NO use data. This data is owned by YOU and YOU alone, this data will NEVER BE used or resold in any way without the uses permission.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Service Providers
+
+We may employ third-party companies and individuals due to the following reasons:
+ 1. To facilitate our Service; SERVERS
+ 2. To provide the Service on our behalf; THIRD PARTY LIBRARIES
+ 3. To perform Service-related services; 
+ 4. To assist us in analyzing how our Service is used.
+
+We want to inform our Service users that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+### Security
+
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+
+### Links to Other Sites
+
+Our Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over, and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+### Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page. This Privacy Policy was created with the [GDPR](https://gdprprivacypolicy.net)GDPR Privacy Policy Generator.
+
+
+### Contact Us
+
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us
